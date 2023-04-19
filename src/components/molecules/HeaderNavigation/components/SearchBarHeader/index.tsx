@@ -10,7 +10,7 @@ export default function SearchBarHeader() {
         {
             isTyping ?        
             (<CloseIcon onClick={() => setIsTyping(false)} src="src\assets\icons\close_icon.svg"/>) :
-            (<SearchIcon src="src\assets\icons\search_icon.svg"/>)
+            (<SearchIcon src="src\assets\icons\search_icon.png"/>)
            
         }
     </BarContainer>

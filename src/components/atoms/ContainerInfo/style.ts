@@ -11,7 +11,7 @@ export const InfoContainer = styled.div`
     align-items:center;
     justify-content: center;
     margin: 0 56px 0 56px;
-    background-image:url('src/assets/icons/logo_opacity.svg');
+    background-image:url('src/assets/icons/logo_opacity.png');
     background-position:top;
     background-repeat: no-repeat;
 `

@@ -4,7 +4,7 @@ import { PALLET_COLORS } from "../../../configs/colors/pallet_colors";
 
 
 export const CardCashBackContainer = styled.div`
-    background-image:url('src/assets/cash_back.svg');
+    background-image:url('src/assets/cash_back.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 280px;

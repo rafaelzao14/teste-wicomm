@@ -4,7 +4,7 @@ import { PALLET_COLORS } from "../../../configs/colors/pallet_colors";
 
 
 export const CardFreteContainer = styled.div`
-    background-image:url('src/assets/frete_card.svg');
+    background-image:url('src/assets/frete_card.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 280px;

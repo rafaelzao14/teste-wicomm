@@ -9,7 +9,7 @@ export default function MiniTopHeader() {
             Fale Conosco
         </TypographyMiniTopHeader>
         <ContainerFrete>
-            <img src="src\assets\icons\truck_icon.svg" alt='Icone de caminhão de frete.'/>
+            <img src="src\assets\icons\truck_icon.png" alt='Icone de caminhão de frete.'/>
             <InfoFrete>
                 FRETE GRÁTIS A PARTIR DE R$ 199,90 PARA TODO BRASIL
             </InfoFrete>

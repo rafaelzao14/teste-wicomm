@@ -4,7 +4,7 @@ import { PALLET_COLORS } from "../../../../../configs/colors/pallet_colors";
 
 
 export const SingleSlide = styled.div`
-    background-image: url("src/assets/images/main_image_top.svg");
+    background-image: url("src/assets/images/main_image_top.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;

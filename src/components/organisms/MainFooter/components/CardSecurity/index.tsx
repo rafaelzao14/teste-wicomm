@@ -6,7 +6,7 @@ export default function CardSecurity() {
   return (
     <CardSecurityContainer>
         <TitleCardFooter text='Segurança'/>
-        <img src='src/assets/icons/security_icons.svg' alt='Selos de segurança da página.'/>
+        <img src='src/assets/icons/security_icons.png' alt='Selos de segurança da página.'/>
     </CardSecurityContainer>
   )
 }

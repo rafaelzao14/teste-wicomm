@@ -10,9 +10,9 @@ export default function CarrouselTeam() {
     <ContainerCarrouselTeam>
         <ContainerCardTeam>
         <Carousel showArrows showIndicators={false} showStatus={false} centerMode centerSlidePercentage={30}>
-            <CardTeamAthlete pathImage='src/assets/team/people1.svg'/>
-            <CardTeamAthlete pathImage='src/assets/team/people2.svg'/>
-            <CardTeamAthlete pathImage='src/assets/team/people3.svg'/>
+            <CardTeamAthlete pathImage='src/assets/team/people1.png'/>
+            <CardTeamAthlete pathImage='src/assets/team/people2.png'/>
+            <CardTeamAthlete pathImage='src/assets/team/people3.png'/>
         </Carousel>
         </ContainerCardTeam>
 

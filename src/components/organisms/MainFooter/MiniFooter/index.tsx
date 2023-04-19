@@ -8,8 +8,8 @@ export default function MiniFooter() {
         Black Skull 2022. Todos os direitos reservados.
         </CopyrightText>
       <ContainerIconsWicomm>
-        <img src='src/assets/icons/wicomm_icon.svg' alt='Wicomm Logo'/>
-        <img src='src/assets/icons/vtex_icon.svg' alt='Vtex Logo'/>
+        <img src='src/assets/icons/wicomm_icon.png' alt='Wicomm Logo'/>
+        <img src='src/assets/icons/vtex_icon.png' alt='Vtex Logo'/>
       </ContainerIconsWicomm>
     </ContainerFooter>
   )

@@ -5,7 +5,7 @@ import { PALLET_COLORS } from "../../../configs/colors/pallet_colors";
 export const ContainerCarrouselTeam = styled.div`
     width: 100%;
     height: 461px;
-    background-image:url('src/assets/images/background_team.svg');
+    background-image:url('src/assets/images/background_team.png');
     background-repeat: no-repeat;
     background-size:cover;
     display:flex;

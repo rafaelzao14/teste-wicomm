@@ -15,10 +15,10 @@ export default function CarrouselTop() {
             <SlideTop />
         </Carousel>
         <ButtonBackTop>
-            <img src="src\assets\icons\back_top_icon.svg" alt='Botão com flecha para cima para voltar ao topo da página.'/>
+            <img src="src\assets\icons\back_top_icon.png" alt='Botão com flecha para cima para voltar ao topo da página.'/>
         </ButtonBackTop>
         <ButtonFillContact>
-            <img src="src\assets\icons\chat_icon.svg" alt='Icone de Chat.'/>
+            <img src="src\assets\icons\chat_icon.png" alt='Icone de Chat.'/>
             Fale Conosco
             </ButtonFillContact>            
         </ContainerCarrousel>

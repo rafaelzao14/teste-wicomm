@@ -4,7 +4,7 @@ import styled from "styled-components";
 export const ContainerCarrouselBlog = styled.div`
     width: 100%;
     height: 540px;
-    background-image:url('src/assets/images/background_blog.svg');
+    background-image:url('src/assets/images/background_blog.png');
     background-repeat: no-repeat;
     background-size:cover;
     display:flex;

@@ -10,10 +10,10 @@ export default function CardNewProducts({typeCard}:Card_Props) {
   return (
     <CardContainer>
       <>
-      <CardImage src="src\assets\images\lancamentos.svg"/>
+      <CardImage src="src\assets\images\lancamentos.png"/>
       <ContainerCardIcon>
-        <img src="src\assets\icons\favorite_icon.svg" alt='Icone de Estrela para favoritar'/>
-        <img src="src\assets\icons\shop_cart_icon.svg" alt='Icone de carrinho de compras'/>
+        <img src="src\assets\icons\favourite_icon.png" alt='Icone de Estrela para favoritar'/>
+        <img src="src\assets\icons\shoppingCart.png" alt='Icone de carrinho de compras'/>
       </ContainerCardIcon>
       
       </>

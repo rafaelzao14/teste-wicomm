@@ -4,8 +4,8 @@ import { CardSocialContainer } from './style'
 export default function CardSocialMedia() {
   return (
     <CardSocialContainer>
-        <img src='src/assets/Logo.svg' alt='Logo BlackSkull'/>
-        <img src='src/assets/icons/social_media_icons.svg' alt='Icones Redes Sociais'/>
+        <img src='src/assets/Logo.png' alt='Logo BlackSkull'/>
+        <img src='src/assets/icons/social_media_icons.png' alt='Icones Redes Sociais'/>
     </CardSocialContainer>
   )
 }

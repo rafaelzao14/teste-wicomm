@@ -8,7 +8,7 @@ import SearchBarHeader from './components/SearchBarHeader'
 export default function HeaderNavigation() {
   return (
     <ContainerHeaderNavigation>
-        <LogoExtendBlackSkull src="src\assets\Logo.svg"/>
+        <LogoExtendBlackSkull src="src\assets\Logo.png"/>
         <NavigationBar>
             {
                 BUTTONS_INFO_HEADER.map((item, index) => {
@@ -21,15 +21,15 @@ export default function HeaderNavigation() {
         <SearchBarHeader />
         <ContainerIconsSide>
             <IconHeaderButton>
-                <img width="24" height="24" src="src\assets\icons\user_icon.svg" alt='Icone de usuário'/>
+                <img width="24" height="24" src="src\assets\icons\user_icon.png" alt='Icone de usuário'/>
             </IconHeaderButton>
 
             <IconHeaderButton>
-                <img width="24" height="24" src="src\assets\icons\favorite_icon.svg" alt='Icone de Estrela para Favoritar'/>
+                <img width="24" height="24" src="src\assets\icons\favorite_icon.png" alt='Icone de Estrela para Favoritar'/>
             </IconHeaderButton>
 
             <IconHeaderButton>   
-                <img width="24" height="24" src="src\assets\icons\shoppingCart_icon.svg" alt='Icone de carrinho de compra.'/>
+                <img width="24" height="24" src="src\assets\icons\shoppingCart_icon.png" alt='Icone de carrinho de compra.'/>
             </IconHeaderButton>
         </ContainerIconsSide>
 

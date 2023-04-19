@@ -6,7 +6,7 @@ export default function CardPayment() {
   return (
     <CardPaymentContainer>
         <TitleCardFooter text='Formas de Pagamento' />
-        <img src='src/assets/icons/flags_credit_icons.svg' alt='Bandeiras de cartões de crédito.'/>
+        <img src='src/assets/icons/flags_credit_icons.png' alt='Bandeiras de cartões de crédito.'/>
     </CardPaymentContainer>
   )
 }
