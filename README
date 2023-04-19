@@ -1,0 +1,24 @@
+Olá Dev, segue algumas instruções e informações sobre este projeto:
+
+=> O Projeto segue o padrão de pastas atomic design, pensando em separar por complexidades de componentes,
+mas não desconsiderando componentizar elementos dentro de próprios documentos. No caso, os atoms são os mais
+simples, molecules médio complexo e organisms os mais complexos que geralmente abrange um conjunto de vários 
+outros componentes.
+
+=> Como gerenciador de tarefas, foi utilizado o próprio Vite que oferece opções de compilação mais rápidas comparadas aos demais.
+
+=> Todos os componentes utilizam da biblioteca Styled Components e foi tentado utilizar os nomes mais sugestivos possíveis para facilitar a manutenção, poucos são os componentes que recebem tags HTML direto.
+
+=> Para buildar o app é preciso instalar as dependências através do comando $ npm no terminal;
+
+=> Para rodar o projeto: $ npm run dev;
+
+=> Por padrão o Vite roda no seguinte dominio: http://127.0.0.1:5173/;
+
+=> O projeto procurou segui todo o layout, não foi testado responsividade mas procurou seguir recursos de tamnahos baseados em porcentagem;
+
+=> Alguns hovers de CSS não foram feitos por falta de refêrencia no figma.
+
+
+Qualquer dúvida, estou a disposição no email: rafael.marqueslaurindo@gmail.com
+
